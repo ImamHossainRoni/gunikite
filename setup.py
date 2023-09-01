@@ -5,7 +5,7 @@ __author__ = 'Imam Hossain Roni'
 
 setup(
     name="gunikite",
-    version="0.1.0",
+    version="0.2.0",
     description="Utility for running Gunicorn server from a virtual environment.",
     author="Imam Hossain Roni",
     author_email="imamhossainroni95@gmail.com",
