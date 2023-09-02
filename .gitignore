@@ -13,3 +13,4 @@ postgres_data/*
 dist
 .env
 venv
+.pypirc
