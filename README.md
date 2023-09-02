@@ -1,6 +1,6 @@
 #  🐎 GuniKite
 
-`gunikite` is a utility class for running Gunicorn servers from a virtual environment. It helps you find the location of the Gunicorn executable within the virtual environment and run it with specified parameters.
+`gunikite` is a utility class for running Gunicorn servers from a virtual environment. It helps find the location of the Gunicorn executable within the virtual environment and run it with specified parameters.
 
 ## Installation
 
